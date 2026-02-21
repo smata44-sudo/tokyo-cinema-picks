@@ -508,8 +508,20 @@
 
 <script>
 // ==============================================
-// Film database — curated from real Tokyo mini-theater schedules
-// Week of Feb 2 – Feb 8, 2026
+// GitHub Pages API — 最新データ取得
+// ==============================================
+const FILMS_API_URL =
+  "https://smata44-sudo.github.io/tokyo-cinema-picks/api/films.json";
+let dynamicFilms = null;
+let dynamicTheaterUrls = null;
+let apiWeekLabel = null;
+let lastUpdated = null;
+
+function getActiveFilms() { return dynamicFilms || allFilms; }
+function getActiveTheaterUrls() { return dynamicTheaterUrls || theaterUrls; }
+
+// ==============================================
+// Film database — fallback static data
 // ==============================================
 const theaterUrls = {
   "新文芸坐": "https://www.shin-bungeiza.com/",
@@ -1569,7 +1581,7 @@ function performSearch(keyword) {
   searchQuery = keyword.trim();
 
   // Score ALL films across all sets
-  const scored = allFilms.map(f => ({
+  const scored = getActiveFilms().map(f => ({
     film: f,
     score: scoreFilm(f, searchQuery)
   }));
@@ -1586,7 +1598,7 @@ function performSearch(keyword) {
     const entry = findKBEntry(searchQuery);
     if (entry) {
       // Re-score with region/era only
-      const loose = allFilms.map(f => {
+      const loose = getActiveFilms().map(f => {
         let s = 0;
         if (entry.region && f.region === entry.region) s += 10;
         if (entry.era && f.year > 0) {
@@ -1650,7 +1662,7 @@ function buildCard(film, rank, score) {
         </div>
         <div class="meta">${tags.join('')}</div>
         <div class="theater-line">
-          <a class="theater-name" href="${theaterUrls[film.theater] || '#'}" target="_blank" rel="noopener">${film.theater}</a>（${film.area}）
+          <a class="theater-name" href="${getActiveTheaterUrls()[film.theater] || '#'}" target="_blank" rel="noopener">${film.theater}</a>（${film.area}）
           ｜${film.period}
         </div>
         <div class="time-line">上映時間: ${timesStr}${film.runtime ? ` ／ ${film.runtime}分` : ''}</div>
@@ -1679,7 +1691,8 @@ function render() {
   if (searchMode) { renderSearch(); return; }
 
   const container = document.getElementById('ranking');
-  const setFilms = allFilms.filter(f => f.set === currentSet);
+  const films = getActiveFilms();
+  const setFilms = dynamicFilms ? films : films.filter(f => f.set === currentSet);
   const filtered = filterFilms(setFilms, currentFilter);
   const top10 = filtered.slice(0, 10);
 
@@ -1714,7 +1727,7 @@ let theaterFilterValue = "all";
 
 function getAllTheaters() {
   const theaterMap = {};
-  allFilms.forEach(f => {
+  getActiveFilms().forEach(f => {
     if (!theaterMap[f.theater]) {
       theaterMap[f.theater] = { area: f.area, films: [] };
     }
@@ -1787,7 +1800,7 @@ function renderListing() {
 
     totalTheaters++;
     const icon = '🎬';
-    const url = theaterUrls[name] || '#';
+    const url = getActiveTheaterUrls()[name] || '#';
 
     html += `<div class="theater-section">`;
     html += `<div class="theater-header">`;
@@ -1865,7 +1878,32 @@ document.getElementById('searchInput').addEventListener('keydown', (e) => {
   if (e.key === 'Enter') performSearch(e.target.value);
 });
 
-render();
+// API から最新データを取得して表示
+async function init() {
+  document.getElementById('weekLabel').textContent = getWeekLabel();
+  try {
+    const res = await fetch(FILMS_API_URL, { cache: "no-cache" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    if (data.films && data.films.length > 0) {
+      dynamicFilms = data.films;
+      dynamicTheaterUrls = data.theater_urls || theaterUrls;
+      if (data.week_start && data.week_end) {
+        apiWeekLabel = `${data.week_start} 〜 ${data.week_end}`;
+        document.getElementById('weekLabel').textContent = apiWeekLabel;
+      }
+      lastUpdated = data.updated_date || null;
+      const footer = document.querySelector('footer');
+      if (footer && lastUpdated) {
+        footer.innerHTML += `<br><span style="font-size:0.65rem;color:#888;">データ更新: ${lastUpdated}</span>`;
+      }
+    }
+  } catch (e) {
+    console.warn("API fetch failed, using fallback:", e.message);
+  }
+  render();
+}
+init();
 
 // PWA: Register Service Worker
 if ('serviceWorker' in navigator) {
