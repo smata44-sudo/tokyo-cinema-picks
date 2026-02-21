@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>東京ミニシアター TOP 10</title>
+<style>
+  :root {
+    --bg: #0d0d0d;
+    --card: #1a1a1a;
+    --accent: #e8b930;
+    --accent2: #c0392b;
+    --text: #eee;
+    --muted: #888;
+    --border: #333;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html { width: 480px; height: 600px; }
+  body {
+    font-family: "Hiragino Kaku Gothic ProN","Noto Sans JP","Segoe UI",sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    width: 480px;
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  /* Scrollbar */
+  body::-webkit-scrollbar { width: 6px; }
+  body::-webkit-scrollbar-track { background: var(--bg); }
+  body::-webkit-scrollbar-thumb { background: #444; border-radius: 3px; }
+
+  /* Header */
+  header {
+    text-align: center;
+    padding: 16px 12px 10px;
+    background: linear-gradient(180deg, #1a1a2e 0%, var(--bg) 100%);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  header h1 {
+    font-size: 1.05rem;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+    margin-bottom: 3px;
+  }
+  header .subtitle {
+    font-size: 0.68rem;
+    color: var(--muted);
+  }
+  header .week {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 3px 12px;
+    border: 1px solid var(--accent);
+    border-radius: 14px;
+    font-size: 0.65rem;
+    color: var(--accent);
+  }
+
+  /* Mode toggle */
+  .mode-toggle {
+    display: flex;
+    justify-content: center;
+    gap: 0;
+    padding: 8px 12px 2px;
+    position: sticky;
+    top: 70px;
+    z-index: 10;
+    background: var(--bg);
+  }
+  .mode-toggle button {
+    background: var(--card);
+    color: var(--muted);
+    border: 1px solid var(--border);
+    padding: 5px 18px;
+    font-size: 0.7rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .mode-toggle button:first-child { border-radius: 14px 0 0 14px; }
+  .mode-toggle button:last-child  { border-radius: 0 14px 14px 0; }
+  .mode-toggle button.active {
+    background: var(--accent);
+    color: #000;
+    border-color: var(--accent);
+    font-weight: bold;
+  }
+
+  /* Controls */
+  .controls {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    padding: 10px 10px 6px;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 100px;
+    z-index: 10;
+    background: var(--bg);
+  }
+  .controls button {
+    background: var(--card);
+    color: var(--text);
+    border: 1px solid var(--border);
+    padding: 4px 10px;
+    border-radius: 14px;
+    font-size: 0.68rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .controls button:hover,
+  .controls button.active {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .controls button.refresh {
+    background: var(--accent);
+    color: #000;
+    border-color: var(--accent);
+    font-weight: bold;
+  }
+  .controls button.refresh:hover { background: #d4a520; }
+
+  /* Search bar */
+  .search-area {
+    padding: 4px 10px 2px;
+    position: sticky;
+    top: 132px;
+    z-index: 10;
+    background: var(--bg);
+  }
+  .search-box {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+  }
+  .search-box input {
+    flex: 1;
+    background: var(--card);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 12px;
+    border-radius: 16px;
+    font-size: 0.75rem;
+    outline: none;
+    transition: border-color 0.2s;
+    min-width: 0;
+  }
+  .search-box input::placeholder { color: #555; }
+  .search-box input:focus { border-color: var(--accent); }
+  .search-box button {
+    background: var(--accent);
+    color: #000;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 16px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.2s;
+  }
+  .search-box button:hover { background: #d4a520; }
+  .search-box .clear-btn {
+    background: transparent;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    font-weight: normal;
+    padding: 6px 10px;
+  }
+  .search-box .clear-btn:hover { color: var(--text); border-color: #666; }
+  .search-status {
+    text-align: center;
+    font-size: 0.68rem;
+    color: var(--accent);
+    padding: 6px 0 2px;
+    min-height: 20px;
+  }
+  .search-status .keyword-highlight {
+    background: rgba(232,185,48,0.15);
+    padding: 1px 5px;
+    border-radius: 3px;
+    color: var(--accent);
+  }
+
+  /* Ranking list */
+  .ranking {
+    padding: 0 10px 20px;
+  }
+  .card {
+    display: flex;
+    gap: 10px;
+    background: var(--card);
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 8px;
+    border-left: 3px solid transparent;
+    transition: transform 0.15s, border-color 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .card:hover {
+    transform: translateX(3px);
+    border-left-color: var(--accent);
+  }
+
+  /* Rank number */
+  .rank {
+    flex-shrink: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.95rem;
+    font-weight: 900;
+    border-radius: 50%;
+    background: #222;
+    color: var(--muted);
+  }
+  .card:nth-child(1) .rank { background: var(--accent); color: #000; }
+  .card:nth-child(2) .rank { background: #aaa; color: #000; }
+  .card:nth-child(3) .rank { background: #b87333; color: #000; }
+
+  /* Info */
+  .info { flex: 1; min-width: 0; }
+  .title-row {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-bottom: 4px;
+  }
+  .film-title {
+    font-size: 0.82rem;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+  .original-title {
+    font-size: 0.62rem;
+    color: var(--muted);
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-bottom: 5px;
+  }
+  .tag {
+    font-size: 0.58rem;
+    padding: 1px 6px;
+    border-radius: 8px;
+    background: #2a2a2a;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .tag.country { border: 1px solid #444; }
+  .tag.genre { color: var(--accent); border: 1px solid rgba(232,185,48,0.3); }
+  .tag.special { color: var(--accent2); border: 1px solid rgba(192,57,43,0.3); }
+
+  .theater-line {
+    font-size: 0.7rem;
+    color: #bbb;
+    margin-bottom: 2px;
+  }
+  .theater-name {
+    color: var(--accent);
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  a.theater-name:hover {
+    color: #fff;
+    text-decoration: underline;
+  }
+  .time-line {
+    font-size: 0.65rem;
+    color: var(--muted);
+  }
+  .comment {
+    margin-top: 5px;
+    font-size: 0.65rem;
+    color: #999;
+    line-height: 1.45;
+    border-top: 1px solid #2a2a2a;
+    padding-top: 5px;
+  }
+
+  .relevance-badge {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-size: 0.55rem;
+    padding: 1px 6px;
+    border-radius: 6px;
+    background: rgba(232,185,48,0.12);
+    color: var(--accent);
+  }
+
+  /* All-listings view */
+  .all-listings { padding: 0 10px 20px; }
+  .theater-section {
+    margin-bottom: 18px;
+    animation: fadeUp 0.3s ease both;
+  }
+  .theater-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--border);
+  }
+  .theater-header .theater-icon {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #533483, #e94560);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    flex-shrink: 0;
+  }
+  .theater-header a {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--accent);
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .theater-header a:hover { color: #fff; text-decoration: underline; }
+  .theater-header .area-badge {
+    font-size: 0.6rem;
+    color: var(--muted);
+    background: #222;
+    padding: 1px 8px;
+    border-radius: 8px;
+  }
+  .film-row {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 4px 10px;
+    align-items: baseline;
+    padding: 6px 8px;
+    border-radius: 6px;
+    transition: background 0.15s;
+  }
+  .film-row:hover { background: #1f1f1f; }
+  .film-row:not(:last-child) { border-bottom: 1px solid #1a1a1a; }
+  .film-row .fr-title {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: var(--text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .film-row .fr-director {
+    font-size: 0.68rem;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .film-row .fr-times {
+    font-size: 0.65rem;
+    color: #aaa;
+    text-align: right;
+    white-space: nowrap;
+  }
+  .film-row .fr-tags {
+    grid-column: 1 / -1;
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+    padding-top: 1px;
+  }
+  .film-row .fr-tags .tag { font-size: 0.55rem; }
+  .listing-count {
+    text-align: center;
+    font-size: 0.68rem;
+    color: var(--muted);
+    padding: 6px 0 4px;
+  }
+  .listing-count strong { color: var(--accent); }
+  .theater-filter {
+    padding: 2px 10px 6px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    justify-content: center;
+  }
+  .theater-filter button {
+    background: var(--card);
+    color: var(--muted);
+    border: 1px solid #2a2a2a;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 0.6rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .theater-filter button:hover,
+  .theater-filter button.active {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 12px 10px;
+    font-size: 0.6rem;
+    color: #555;
+  }
+
+  /* Animation */
+  .card { animation: fadeUp 0.3s ease both; }
+  .card:nth-child(1) { animation-delay: 0.03s; }
+  .card:nth-child(2) { animation-delay: 0.06s; }
+  .card:nth-child(3) { animation-delay: 0.09s; }
+  .card:nth-child(4) { animation-delay: 0.12s; }
+  .card:nth-child(5) { animation-delay: 0.15s; }
+  .card:nth-child(6) { animation-delay: 0.18s; }
+  .card:nth-child(7) { animation-delay: 0.21s; }
+  .card:nth-child(8) { animation-delay: 0.24s; }
+  .card:nth-child(9) { animation-delay: 0.27s; }
+  .card:nth-child(10) { animation-delay: 0.30s; }
+  @keyframes fadeUp {
+    from { opacity:0; transform:translateY(12px); }
+    to   { opacity:1; transform:translateY(0); }
+  }
+  .ranking.refreshing .card {
+    animation: fadeOut 0.2s ease both;
+  }
+  @keyframes fadeOut {
+    to { opacity:0; transform:translateY(-8px); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1 id="mainTitle">東京ミニシアター 今週の TOP 10</h1>
+  <p class="subtitle">23区のミニシアター・名画座 — 名作・旧作・ドキュメンタリー</p>
+  <span class="week" id="weekLabel"></span>
+</header>
+
+<div class="mode-toggle">
+  <button class="active" id="modeRanking">TOP 10</button>
+  <button id="modeListing">全上映一覧</button>
+</div>
+
+<!-- Ranking mode -->
+<div id="rankingMode">
+  <div class="controls">
+    <button class="active" data-filter="all">すべて</button>
+    <button data-filter="japan">日本</button>
+    <button data-filter="usa">米国</button>
+    <button data-filter="europe">欧州</button>
+    <button data-filter="other">その他</button>
+    <button data-filter="doc">ドキュメンタリー</button>
+    <button class="refresh" id="refreshBtn">再検索</button>
+  </div>
+
+  <div class="search-area">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="キーワード検索（人物名・ジャンル…）">
+      <button id="searchBtn">検索</button>
+      <button class="clear-btn" id="clearBtn">クリア</button>
+    </div>
+    <div class="search-status" id="searchStatus"></div>
+  </div>
+
+  <div class="ranking" id="ranking"></div>
+</div>
+
+<!-- All-listings mode -->
+<div id="listingMode" style="display:none;">
+  <div class="theater-filter" id="theaterFilter"></div>
+  <div class="listing-count" id="listingCount"></div>
+  <div class="all-listings" id="allListings"></div>
+</div>
+
+<footer>
+  上映スケジュールは各映画館の公式サイトでご確認ください。<br>
+  データ取得日: 2026年2月2日
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

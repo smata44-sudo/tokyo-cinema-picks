@@ -1,0 +1,28 @@
+{
+  "updated": "2026-02-20T08:00:00",
+  "updated_date": "2026-02-20",
+  "week_start": "2026/02/20",
+  "week_end": "2026/02/26",
+  "theater_urls": {
+    "新文芸坐": "https://www.shin-bungeiza.com/",
+    "早稲田松竹": "https://wasedashochiku.co.jp/",
+    "ユーロスペース": "http://www.eurospace.co.jp/",
+    "シネマヴェーラ渋谷": "http://www.cinemavera.com/",
+    "下高井戸シネマ": "https://www.shimotakaidocinema.com/",
+    "ポレポレ東中野": "https://pole2.co.jp/",
+    "ラピュタ阿佐ヶ谷": "https://www.laputa-jp.com/",
+    "キネカ大森": "https://ttcg.jp/cineka_omori/",
+    "K's Cinema": "https://www.ks-cinema.com/",
+    "アップリンク吉祥寺": "https://joji.uplink.co.jp/",
+    "目黒シネマ": "https://www.okura-movie.co.jp/meguro_cinema/",
+    "シネマート新宿": "https://www.cinemart.co.jp/theater/shinjuku/",
+    "テアトル新宿": "https://ttcg.jp/theatre_shinjuku/",
+    "新宿武蔵野館": "https://shinjuku.musashino-k.jp/",
+    "ル・シネマ渋谷宮下": "https://www.bunkamura.co.jp/cinema_miyashita/",
+    "神保町シアター": "https://www.shogakukan.co.jp/jinbocho-theater/",
+    "国立映画アーカイブ": "https://www.nfaj.go.jp/",
+    "シネマ・ロサ": "https://www.cinemarosa.net/",
+    "Stranger": "https://stranger.jp/"
+  },
+  "films": []
+}
