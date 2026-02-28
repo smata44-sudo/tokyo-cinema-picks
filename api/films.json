@@ -1,8 +1,8 @@
 {
-  "updated": "2026-02-27T23:51:04.168375",
-  "updated_date": "2026-02-27",
-  "week_start": "2026/02/27",
-  "week_end": "2026/03/05",
+  "updated": "2026-02-28T23:43:01.046113",
+  "updated_date": "2026-02-28",
+  "week_start": "2026/02/28",
+  "week_end": "2026/03/06",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,7 +29,7 @@
       "title": "2/28.sat - 3/6.friアンドレア・アーノルド監督特集",
       "director": "",
       "times": [
-        "08:50",
+        "08:42",
         "21:30",
         "09:00",
         "20:34",
@@ -47,7 +47,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "02/27〜03/05",
+      "period": "02/28〜03/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -56,7 +56,7 @@
       "title": "【モーニングショー】ワザリング・ハイツ 〜嵐が丘〜",
       "director": "",
       "times": [
-        "08:50",
+        "08:42",
         "21:30",
         "09:00",
         "20:34",
@@ -74,7 +74,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "02/27〜03/05",
+      "period": "02/28〜03/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -83,7 +83,7 @@
       "title": "アメリカン・ハニー",
       "director": "",
       "times": [
-        "08:50",
+        "08:42",
         "21:30",
         "09:00",
         "20:34",
@@ -95,7 +95,7 @@
         "18:00",
         "20:00"
       ],
-      "period": "02/27〜03/05",
+      "period": "02/28〜03/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -104,7 +104,7 @@
       "title": "バード ここから羽ばたく",
       "director": "",
       "times": [
-        "08:50",
+        "08:42",
         "21:30",
         "09:00",
         "20:34",
@@ -118,7 +118,7 @@
         "20:15",
         "21:55"
       ],
-      "period": "02/27〜03/05",
+      "period": "02/28〜03/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -187,7 +187,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "2/28㈯",
+      "title": "3/1㈰『道行き』",
       "director": "",
       "times": [],
       "period": "上映中",
