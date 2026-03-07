@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-06T23:53:51.125881",
-  "updated_date": "2026-03-06",
-  "week_start": "2026/03/06",
-  "week_end": "2026/03/12",
+  "updated": "2026-03-07T23:46:46.422502",
+  "updated_date": "2026-03-07",
+  "week_start": "2026/03/07",
+  "week_end": "2026/03/13",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,7 +29,7 @@
       "title": "3/7.sat - 3/13.fri日々の泡、漂流する心",
       "director": "",
       "times": [
-        "08:53",
+        "08:46",
         "21:30",
         "09:00",
         "20:44",
@@ -50,7 +50,7 @@
         "10:00",
         "9:40"
       ],
-      "period": "03/06〜03/12",
+      "period": "03/07〜03/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -59,7 +59,7 @@
       "title": "夏の砂の上",
       "director": "",
       "times": [
-        "08:53",
+        "08:46",
         "21:30",
         "09:00",
         "20:44",
@@ -71,7 +71,7 @@
         "19:20",
         "21:25"
       ],
-      "period": "03/06〜03/12",
+      "period": "03/07〜03/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -80,7 +80,7 @@
       "title": "平場の月",
       "director": "",
       "times": [
-        "08:53",
+        "08:46",
         "21:30",
         "09:00",
         "20:44",
@@ -92,7 +92,7 @@
         "19:20",
         "21:25"
       ],
-      "period": "03/06〜03/12",
+      "period": "03/07〜03/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -101,7 +101,7 @@
       "title": "アジアのユニークな国",
       "director": "",
       "times": [
-        "08:53",
+        "08:46",
         "21:30",
         "09:00",
         "20:44",
@@ -120,7 +120,7 @@
         "19:45",
         "21:50"
       ],
-      "period": "03/06〜03/12",
+      "period": "03/07〜03/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -198,7 +198,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "3/7㈯",
+      "title": "夜勤事件",
       "director": "",
       "times": [],
       "period": "上映中",
