@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-11T23:54:07.344325",
-  "updated_date": "2026-03-11",
-  "week_start": "2026/03/11",
-  "week_end": "2026/03/17",
+  "updated": "2026-03-12T23:54:54.465074",
+  "updated_date": "2026-03-12",
+  "week_start": "2026/03/12",
+  "week_end": "2026/03/18",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,7 +29,7 @@
       "title": "3/7.sat - 3/13.fri日々の泡、漂流する心",
       "director": "",
       "times": [
-        "08:53",
+        "08:54",
         "21:30",
         "09:00",
         "18:02",
@@ -50,7 +50,7 @@
         "10:00",
         "9:40"
       ],
-      "period": "03/11〜03/17",
+      "period": "03/12〜03/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -59,7 +59,7 @@
       "title": "夏の砂の上",
       "director": "",
       "times": [
-        "08:53",
+        "08:54",
         "21:30",
         "09:00",
         "18:02",
@@ -71,7 +71,7 @@
         "19:20",
         "21:25"
       ],
-      "period": "03/11〜03/17",
+      "period": "03/12〜03/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -80,7 +80,7 @@
       "title": "平場の月",
       "director": "",
       "times": [
-        "08:53",
+        "08:54",
         "21:30",
         "09:00",
         "18:02",
@@ -92,7 +92,7 @@
         "19:20",
         "21:25"
       ],
-      "period": "03/11〜03/17",
+      "period": "03/12〜03/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -101,7 +101,7 @@
       "title": "アジアのユニークな国",
       "director": "",
       "times": [
-        "08:53",
+        "08:54",
         "21:30",
         "09:00",
         "18:02",
@@ -120,7 +120,7 @@
         "19:45",
         "21:50"
       ],
-      "period": "03/11〜03/17",
+      "period": "03/12〜03/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -153,7 +153,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "3.6㊎～3.12㊍",
+      "title": "名画座キネカード入会募集中！",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -162,7 +162,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "名画座キネカード入会募集中！",
+      "title": "トピックス",
       "director": "",
       "times": [],
       "period": "上映中",
