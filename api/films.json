@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-30T23:43:06.811957",
-  "updated_date": "2026-03-30",
-  "week_start": "2026/03/30",
-  "week_end": "2026/04/05",
+  "updated": "2026-03-31T23:41:10.167002",
+  "updated_date": "2026-03-31",
+  "week_start": "2026/03/31",
+  "week_end": "2026/04/06",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,10 +29,10 @@
       "title": "3/28.sat - 4/3.fri早稲田松竹クラシックスvol.250／тоска（トスカ）～ロシアン・リアリズムの深淵～",
       "director": "",
       "times": [
-        "08:42",
+        "08:40",
         "21:30",
         "09:00",
-        "20:00",
+        "18:58",
         "09:00",
         "12:10",
         "16:10",
@@ -52,7 +52,7 @@
         "9:30",
         "9:20"
       ],
-      "period": "03/30〜04/05",
+      "period": "03/31〜04/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -61,10 +61,10 @@
       "title": "動くな、死ね、甦れ！ デジタルリマスター版",
       "director": "",
       "times": [
-        "08:42",
+        "08:40",
         "21:30",
         "09:00",
-        "20:00",
+        "18:58",
         "09:00",
         "12:10",
         "16:10",
@@ -84,7 +84,7 @@
         "9:30",
         "9:20"
       ],
-      "period": "03/30〜04/05",
+      "period": "03/31〜04/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -93,10 +93,10 @@
       "title": "ひとりで生きる",
       "director": "",
       "times": [
-        "08:42",
+        "08:40",
         "21:30",
         "09:00",
-        "20:00",
+        "18:58",
         "09:00",
         "12:10",
         "16:10",
@@ -116,7 +116,7 @@
         "9:30",
         "9:20"
       ],
-      "period": "03/30〜04/05",
+      "period": "03/31〜04/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -125,10 +125,10 @@
       "title": "【レイトショー】ぼくら、20世紀の子供たち デジタルリマスター版",
       "director": "",
       "times": [
-        "08:42",
+        "08:40",
         "21:30",
         "09:00",
-        "20:00",
+        "18:58",
         "09:00",
         "12:10",
         "16:10",
@@ -148,7 +148,7 @@
         "9:30",
         "9:20"
       ],
-      "period": "03/30〜04/05",
+      "period": "03/31〜04/06",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -172,7 +172,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "フレデリック・ワイズマン追悼上映",
+      "title": "崩れていく世界",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -181,7 +181,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "ゾンビ1/2",
+      "title": "【マサラ上映】バーフバリ完全版2作品連続上映",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -190,7 +190,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "秒速5センチメートル（アニメーション版）",
+      "title": "かもめ食堂",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -217,7 +217,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "生きているんだ友達なんだ",
+      "title": "4/3㈮ 『東京逃避行』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -226,7 +226,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "田辺・弁慶映画祭セレクション2026",
+      "title": "4/4㈯ ドレスコーズ",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -235,7 +235,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "東京逃避行",
+      "title": "4/10㈮ 『炎上』",
       "director": "",
       "times": [],
       "period": "上映中",
