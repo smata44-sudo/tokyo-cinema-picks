@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-08T23:48:37.014583",
-  "updated_date": "2026-04-08",
-  "week_start": "2026/04/08",
-  "week_end": "2026/04/14",
+  "updated": "2026-04-09T23:44:24.975140",
+  "updated_date": "2026-04-09",
+  "week_start": "2026/04/09",
+  "week_end": "2026/04/15",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,7 +29,7 @@
       "title": "4/4.sat - 4/10.friこの社会を動かす人たち ～あらゆる暮らしに花束を～",
       "director": "",
       "times": [
-        "08:48",
+        "08:43",
         "21:30",
         "09:00",
         "15:52",
@@ -43,7 +43,7 @@
         "9:20",
         "9:20"
       ],
-      "period": "04/08〜04/14",
+      "period": "04/09〜04/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -52,7 +52,7 @@
       "title": "石炭の値打ち",
       "director": "",
       "times": [
-        "08:48",
+        "08:43",
         "21:30",
         "09:00",
         "15:52",
@@ -63,7 +63,7 @@
         "18:00",
         "19:15"
       ],
-      "period": "04/08〜04/14",
+      "period": "04/09〜04/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -72,7 +72,7 @@
       "title": "女性の休日",
       "director": "",
       "times": [
-        "08:48",
+        "08:43",
         "21:30",
         "09:00",
         "15:52",
@@ -83,7 +83,7 @@
         "18:00",
         "19:15"
       ],
-      "period": "04/08〜04/14",
+      "period": "04/09〜04/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -92,7 +92,7 @@
       "title": "4/4.sat - 4/10.fri【特別興行】『今は昔、栄養映画館の旅』",
       "director": "",
       "times": [
-        "08:48",
+        "08:43",
         "21:30",
         "09:00",
         "15:52",
@@ -106,7 +106,7 @@
         "9:20",
         "9:20"
       ],
-      "period": "04/08〜04/14",
+      "period": "04/09〜04/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -184,7 +184,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "4/8㈬,4/9㈭",
+      "title": "炎上",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -193,7 +193,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "炎上",
+      "title": "街の上で",
       "director": "",
       "times": [],
       "period": "上映中",
