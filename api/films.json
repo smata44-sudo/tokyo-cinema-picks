@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-13T23:53:08.965216",
-  "updated_date": "2026-04-13",
-  "week_start": "2026/04/13",
-  "week_end": "2026/04/19",
+  "updated": "2026-04-14T23:52:30.827291",
+  "updated_date": "2026-04-14",
+  "week_start": "2026/04/14",
+  "week_end": "2026/04/20",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,7 +29,7 @@
       "title": "4/11.sat - 4/17.fri世界をひらくまなざし ～アノーチャ・スウィチャーゴーンポンとパヤル・カパーリヤー～ 早稲田松竹・国際交流基金共催企画",
       "director": "",
       "times": [
-        "08:52",
+        "08:51",
         "21:30",
         "09:00",
         "14:48",
@@ -55,7 +55,7 @@
         "9:10",
         "9:10"
       ],
-      "period": "04/13〜04/19",
+      "period": "04/14〜04/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -64,7 +64,7 @@
       "title": "暗くなるまでには",
       "director": "",
       "times": [
-        "08:52",
+        "08:51",
         "21:30",
         "09:00",
         "14:48",
@@ -76,7 +76,7 @@
         "18:10",
         "19:40"
       ],
-      "period": "04/13〜04/19",
+      "period": "04/14〜04/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -85,7 +85,7 @@
       "title": "カム・ヒア + レモングラス・ガール",
       "director": "",
       "times": [
-        "08:52",
+        "08:51",
         "21:30",
         "09:00",
         "14:48",
@@ -99,7 +99,7 @@
         "19:55",
         "21:35"
       ],
-      "period": "04/13〜04/19",
+      "period": "04/14〜04/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -108,7 +108,7 @@
       "title": "【レイトショー】ありふれた話 + グレイスランド",
       "director": "",
       "times": [
-        "08:52",
+        "08:51",
         "21:30",
         "09:00",
         "14:48",
@@ -134,7 +134,7 @@
         "9:10",
         "9:10"
       ],
-      "period": "04/13〜04/19",
+      "period": "04/14〜04/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -150,6 +150,15 @@
     },
     {
       "title": "上映中作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
+      "title": "ひつじまみれのこどもの日",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -176,13 +185,13 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "ナースコール",
+      "title": "上映中作品",
       "director": "",
       "times": [],
       "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
       "title": "上映中作品",
@@ -194,7 +203,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "上映中作品",
+      "title": "4/21㈫ 『炎上』で",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -213,15 +222,6 @@
     },
     {
       "title": "炎上",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "街の上で",
       "director": "",
       "times": [],
       "period": "上映中",
