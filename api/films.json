@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-18T23:43:21.241978",
-  "updated_date": "2026-04-18",
-  "week_start": "2026/04/18",
-  "week_end": "2026/04/24",
+  "updated": "2026-04-19T23:46:45.866662",
+  "updated_date": "2026-04-19",
+  "week_start": "2026/04/19",
+  "week_end": "2026/04/25",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,7 +29,7 @@
       "title": "4/18.sat - 4/24.friバッド・イマジネーションが止められない私たち",
       "director": "",
       "times": [
-        "08:42",
+        "08:46",
         "21:30",
         "09:00",
         "18:23",
@@ -44,7 +44,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "04/18〜04/24",
+      "period": "04/19〜04/25",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -53,7 +53,7 @@
       "title": "エディントンへようこそ",
       "director": "",
       "times": [
-        "08:42",
+        "08:46",
         "21:30",
         "09:00",
         "18:23",
@@ -66,7 +66,7 @@
         "19:50",
         "21:45"
       ],
-      "period": "04/18〜04/24",
+      "period": "04/19〜04/25",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -75,7 +75,7 @@
       "title": "テレビの中に入りたい",
       "director": "",
       "times": [
-        "08:42",
+        "08:46",
         "21:30",
         "09:00",
         "18:23",
@@ -86,7 +86,7 @@
         "17:05",
         "19:35"
       ],
-      "period": "04/18〜04/24",
+      "period": "04/19〜04/25",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -95,7 +95,7 @@
       "title": "【レイトショー】オーディション",
       "director": "",
       "times": [
-        "08:42",
+        "08:46",
         "21:30",
         "09:00",
         "18:23",
@@ -110,7 +110,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "04/18〜04/24",
+      "period": "04/19〜04/25",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -188,7 +188,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "4/18㈯ 街の上で",
+      "title": "炎上",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -197,7 +197,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "炎上",
+      "title": "街の上で",
       "director": "",
       "times": [],
       "period": "上映中",
