@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-22T23:53:24.619644",
-  "updated_date": "2026-04-22",
-  "week_start": "2026/04/22",
-  "week_end": "2026/04/28",
+  "updated": "2026-04-23T23:55:03.067380",
+  "updated_date": "2026-04-23",
+  "week_start": "2026/04/23",
+  "week_end": "2026/04/29",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,7 +29,7 @@
       "title": "4/18.sat - 4/24.friバッド・イマジネーションが止められない私たち",
       "director": "",
       "times": [
-        "08:52",
+        "08:54",
         "21:30",
         "09:00",
         "17:15",
@@ -44,7 +44,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "04/22〜04/28",
+      "period": "04/23〜04/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -53,7 +53,7 @@
       "title": "エディントンへようこそ",
       "director": "",
       "times": [
-        "08:52",
+        "08:54",
         "21:30",
         "09:00",
         "17:15",
@@ -66,7 +66,7 @@
         "19:50",
         "21:45"
       ],
-      "period": "04/22〜04/28",
+      "period": "04/23〜04/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -75,7 +75,7 @@
       "title": "テレビの中に入りたい",
       "director": "",
       "times": [
-        "08:52",
+        "08:54",
         "21:30",
         "09:00",
         "17:15",
@@ -86,7 +86,7 @@
         "17:05",
         "19:35"
       ],
-      "period": "04/22〜04/28",
+      "period": "04/23〜04/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -95,7 +95,7 @@
       "title": "【レイトショー】オーディション",
       "director": "",
       "times": [
-        "08:52",
+        "08:54",
         "21:30",
         "09:00",
         "17:15",
@@ -110,7 +110,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "04/22〜04/28",
+      "period": "04/23〜04/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -267,24 +267,6 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
-    },
-    {
-      "title": "ニュース",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "新宿武蔵野館",
-      "area": "新宿",
-      "url": "https://shinjuku.musashino-k.jp/"
-    },
-    {
-      "title": "上映中の作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "新宿武蔵野館",
-      "area": "新宿",
-      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
