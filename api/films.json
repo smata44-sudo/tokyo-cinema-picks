@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-25T23:49:00.651496",
-  "updated_date": "2026-04-25",
-  "week_start": "2026/04/25",
-  "week_end": "2026/05/01",
+  "updated": "2026-04-26T23:50:00.912888",
+  "updated_date": "2026-04-26",
+  "week_start": "2026/04/26",
+  "week_end": "2026/05/02",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,10 +29,10 @@
       "title": "4/25.sat - 5/1.fri早稲田松竹クラシックスvol.251／水俣病公式確認70年によせて 土本典昭監督特集 + モーニング＆レイトショー『阿賀に生きる』",
       "director": "",
       "times": [
-        "08:48",
+        "08:49",
         "21:30",
         "09:00",
-        "20:33",
+        "15:58",
         "09:00",
         "10:20",
         "13:10",
@@ -59,7 +59,7 @@
         "13:35",
         "12:45"
       ],
-      "period": "04/25〜05/01",
+      "period": "04/26〜05/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -68,10 +68,10 @@
       "title": "水俣 －患者さんとその世界－＜完全版＞",
       "director": "",
       "times": [
-        "08:48",
+        "08:49",
         "21:30",
         "09:00",
-        "20:33",
+        "15:58",
         "09:00",
         "10:20",
         "13:10",
@@ -98,7 +98,7 @@
         "13:35",
         "12:45"
       ],
-      "period": "04/25〜05/01",
+      "period": "04/26〜05/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,10 +107,10 @@
       "title": "不知火海",
       "director": "",
       "times": [
-        "08:48",
+        "08:49",
         "21:30",
         "09:00",
-        "20:33",
+        "15:58",
         "09:00",
         "10:20",
         "13:10",
@@ -118,7 +118,7 @@
         "16:05",
         "16:20"
       ],
-      "period": "04/25〜05/01",
+      "period": "04/26〜05/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -127,10 +127,10 @@
       "title": "海とお月さまたち",
       "director": "",
       "times": [
-        "08:48",
+        "08:49",
         "21:30",
         "09:00",
-        "20:33",
+        "15:58",
         "09:00",
         "10:20",
         "13:10",
@@ -140,7 +140,7 @@
         "17:25",
         "19:20"
       ],
-      "period": "04/25〜05/01",
+      "period": "04/26〜05/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -218,7 +218,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "4/25㈯ 『敵』",
+      "title": "4/30㈭ 『炎上』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -227,7 +227,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "4/24㈮ 『炎上』",
+      "title": "スクラップ・ヘブン",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -297,6 +297,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
