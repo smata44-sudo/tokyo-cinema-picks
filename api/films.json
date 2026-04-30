@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T00:02:25.106490",
+  "updated": "2026-04-30T23:57:35.728798",
   "updated_date": "2026-04-30",
   "week_start": "2026/04/30",
   "week_end": "2026/05/06",
@@ -29,7 +29,7 @@
       "title": "4/25.sat - 5/1.fri早稲田松竹クラシックスvol.251／水俣病公式確認70年によせて 土本典昭監督特集 + モーニング＆レイトショー『阿賀に生きる』",
       "director": "",
       "times": [
-        "09:01",
+        "08:57",
         "21:30",
         "09:00",
         "16:16",
@@ -56,7 +56,7 @@
       "title": "水俣 －患者さんとその世界－＜完全版＞",
       "director": "",
       "times": [
-        "09:01",
+        "08:57",
         "21:30",
         "09:00",
         "16:16",
@@ -83,7 +83,7 @@
       "title": "不知火海",
       "director": "",
       "times": [
-        "09:01",
+        "08:57",
         "21:30",
         "09:00",
         "16:16",
@@ -107,7 +107,7 @@
       "title": "海とお月さまたち",
       "director": "",
       "times": [
-        "09:01",
+        "08:57",
         "21:30",
         "09:00",
         "16:16",
@@ -212,7 +212,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "4/30㈭ 『炎上』",
+      "title": "炎上",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -282,6 +282,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
