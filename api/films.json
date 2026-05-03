@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-02T23:54:46.706464",
-  "updated_date": "2026-05-02",
-  "week_start": "2026/05/02",
-  "week_end": "2026/05/08",
+  "updated": "2026-05-03T23:56:30.901776",
+  "updated_date": "2026-05-03",
+  "week_start": "2026/05/03",
+  "week_end": "2026/05/09",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -29,10 +29,10 @@
       "title": "5/2.sat - 5/8.friわたしとあなた、いつまでも ～逃れられない悪夢～",
       "director": "",
       "times": [
-        "08:54",
+        "08:55",
         "21:30",
         "09:00",
-        "19:31",
+        "14:53",
         "09:00",
         "10:00",
         "12:15",
@@ -55,7 +55,7 @@
         "9:20",
         "9:20"
       ],
-      "period": "05/02〜05/08",
+      "period": "05/03〜05/09",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -64,10 +64,10 @@
       "title": "HELP/復讐島",
       "director": "",
       "times": [
-        "08:54",
+        "08:55",
         "21:30",
         "09:00",
-        "19:31",
+        "14:53",
         "09:00",
         "10:00",
         "12:15",
@@ -77,7 +77,7 @@
         "20:00",
         "21:55"
       ],
-      "period": "05/02〜05/08",
+      "period": "05/03〜05/09",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -86,17 +86,17 @@
       "title": "嵐が丘",
       "director": "",
       "times": [
-        "08:54",
+        "08:55",
         "21:30",
         "09:00",
-        "19:31",
+        "14:53",
         "09:00",
         "10:00",
         "12:15",
         "12:40",
         "17:25"
       ],
-      "period": "05/02〜05/08",
+      "period": "05/03〜05/09",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -105,10 +105,10 @@
       "title": "【モーニング＆レイトショー】嵐が丘(1988)",
       "director": "",
       "times": [
-        "08:54",
+        "08:55",
         "21:30",
         "09:00",
-        "19:31",
+        "14:53",
         "09:00",
         "10:00",
         "12:15",
@@ -131,7 +131,7 @@
         "9:20",
         "9:20"
       ],
-      "period": "05/02〜05/08",
+      "period": "05/03〜05/09",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -200,7 +200,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "5/3㈰ 『スクラップ・ヘブン』",
+      "title": "ラプソディ・ラプソディ",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -288,6 +288,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
