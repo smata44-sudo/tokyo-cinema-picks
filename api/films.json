@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-09T23:57:23.074045",
-  "updated_date": "2026-05-09",
-  "week_start": "2026/05/09",
-  "week_end": "2026/05/15",
+  "updated": "2026-05-10T23:59:46.812126",
+  "updated_date": "2026-05-10",
+  "week_start": "2026/05/10",
+  "week_end": "2026/05/16",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -177,6 +177,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
