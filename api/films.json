@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-10T23:59:46.812126",
-  "updated_date": "2026-05-10",
-  "week_start": "2026/05/10",
-  "week_end": "2026/05/16",
+  "updated": "2026-05-12T00:04:44.541395",
+  "updated_date": "2026-05-12",
+  "week_start": "2026/05/12",
+  "week_end": "2026/05/18",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -89,6 +89,15 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "★アルバイト募集中★",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "竜宮の誘い",
       "director": "",
       "times": [],
@@ -99,15 +108,6 @@
     },
     {
       "title": "ラプソディ・ラプソディ",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "炎上",
       "director": "",
       "times": [],
       "period": "上映中",
