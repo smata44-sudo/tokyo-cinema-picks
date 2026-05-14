@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-13T00:08:08.764106",
-  "updated_date": "2026-05-13",
-  "week_start": "2026/05/13",
-  "week_end": "2026/05/19",
+  "updated": "2026-05-14T00:09:53.505570",
+  "updated_date": "2026-05-14",
+  "week_start": "2026/05/14",
+  "week_end": "2026/05/20",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -44,6 +44,15 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
+      "title": "【名画座2本立て】６月ラインナップ🎬",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
       "title": "ヨアキム・トリアー オスロ三部作",
       "director": "",
       "times": [],
@@ -62,15 +71,6 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "かもめ食堂",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
       "title": "上映中作品",
       "director": "",
       "times": [],
@@ -81,15 +81,6 @@
     },
     {
       "title": "上映中作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "★アルバイト募集中★",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -108,6 +99,15 @@
     },
     {
       "title": "ラプソディ・ラプソディ",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "炎上",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -177,6 +177,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
