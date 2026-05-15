@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-14T00:09:53.505570",
-  "updated_date": "2026-05-14",
-  "week_start": "2026/05/14",
-  "week_end": "2026/05/20",
+  "updated": "2026-05-15T00:03:05.753813",
+  "updated_date": "2026-05-15",
+  "week_start": "2026/05/15",
+  "week_end": "2026/05/21",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -62,7 +62,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "ひつじまみれのこどもの日",
+      "title": "かもめ食堂",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -89,7 +89,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "竜宮の誘い",
+      "title": "イマジナリーライン",
       "director": "",
       "times": [],
       "period": "上映中",
