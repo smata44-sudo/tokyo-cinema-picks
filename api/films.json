@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-19T00:14:56.017036",
-  "updated_date": "2026-05-19",
-  "week_start": "2026/05/19",
-  "week_end": "2026/05/25",
+  "updated": "2026-05-20T00:14:12.582830",
+  "updated_date": "2026-05-20",
+  "week_start": "2026/05/20",
+  "week_end": "2026/05/26",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -44,25 +44,25 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
+      "title": "カミング・ホーム",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
+      "title": "インディアンムービーウィーク2026パート2",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
       "title": "【名画座2本立て】６月ラインナップ🎬",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
-      "title": "ヨアキム・トリアー オスロ三部作",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
-      "title": "かもめ食堂",
       "director": "",
       "times": [],
       "period": "上映中",
