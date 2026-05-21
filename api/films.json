@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-20T00:14:12.582830",
-  "updated_date": "2026-05-20",
-  "week_start": "2026/05/20",
-  "week_end": "2026/05/26",
+  "updated": "2026-05-21T00:14:12.114908",
+  "updated_date": "2026-05-21",
+  "week_start": "2026/05/21",
+  "week_end": "2026/05/27",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -89,7 +89,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "ラプソディ・ラプソディ",
+      "title": "未来",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -98,7 +98,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "炎上",
+      "title": "弁セレ2026",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -107,7 +107,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "アルバイト募集中！",
+      "title": "おとなになりたくなれますように",
       "director": "",
       "times": [],
       "period": "上映中",
