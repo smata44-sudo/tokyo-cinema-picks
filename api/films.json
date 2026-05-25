@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-24T00:03:38.087897",
-  "updated_date": "2026-05-24",
-  "week_start": "2026/05/24",
-  "week_end": "2026/05/30",
+  "updated": "2026-05-25T00:07:23.910319",
+  "updated_date": "2026-05-25",
+  "week_start": "2026/05/25",
+  "week_end": "2026/05/31",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -98,7 +98,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "弁セレ2026",
+      "title": "おとなになりたくなれますように",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -107,7 +107,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "おとなになりたくなれますように",
+      "title": "アルバイト募集中！",
       "director": "",
       "times": [],
       "period": "上映中",
