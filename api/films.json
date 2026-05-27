@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-26T00:12:40.467209",
-  "updated_date": "2026-05-26",
-  "week_start": "2026/05/26",
-  "week_end": "2026/06/01",
+  "updated": "2026-05-27T00:15:10.246936",
+  "updated_date": "2026-05-27",
+  "week_start": "2026/05/27",
+  "week_end": "2026/06/02",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -89,7 +89,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "未来",
+      "title": "おとなになりたくなれますように",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -98,7 +98,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "おとなになりたくなれますように",
+      "title": "未来",
       "director": "",
       "times": [],
       "period": "上映中",
