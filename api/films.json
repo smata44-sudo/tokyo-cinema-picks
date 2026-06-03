@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-02T00:19:51.843053",
-  "updated_date": "2026-06-02",
-  "week_start": "2026/06/02",
-  "week_end": "2026/06/08",
+  "updated": "2026-06-03T01:43:37.561526",
+  "updated_date": "2026-06-03",
+  "week_start": "2026/06/03",
+  "week_end": "2026/06/09",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -44,7 +44,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "カミング・ホーム",
+      "title": "第7回ジーンシアタースタジアム",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -53,61 +53,61 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "インディアンムービーウィーク2026パート2",
+      "title": "天文館探偵物語",
       "director": "",
       "times": [],
       "period": "上映中",
       "theater": "キネカ大森",
       "area": "大森",
       "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
-      "title": "【名画座2本立て】６月ラインナップ🎬",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
-      "title": "上映中作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "上映中作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "2045 FILMS VOL.1",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "未来",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
       "title": "ラプソディ・ラプソディ",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
+      "title": "上映中作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "上映中作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "6/6㈯『FUJIKO』",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "炎上",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "FUJIKO",
       "director": "",
       "times": [],
       "period": "上映中",
