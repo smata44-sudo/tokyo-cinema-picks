@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-06T00:15:23.884242",
-  "updated_date": "2026-06-06",
-  "week_start": "2026/06/06",
-  "week_end": "2026/06/12",
+  "updated": "2026-06-07T00:12:13.895912",
+  "updated_date": "2026-06-07",
+  "week_start": "2026/06/07",
+  "week_end": "2026/06/13",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -89,25 +89,25 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "6/13㊏",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "テアトルアニメゼミ2026",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "6/11㊍『死ねばいいのに』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "6/6㈯『FUJIKO』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "炎上",
       "director": "",
       "times": [],
       "period": "上映中",
