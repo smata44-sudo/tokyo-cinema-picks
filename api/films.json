@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-11T00:23:40.214317",
-  "updated_date": "2026-06-11",
-  "week_start": "2026/06/11",
-  "week_end": "2026/06/17",
+  "updated": "2026-06-12T00:22:09.224842",
+  "updated_date": "2026-06-12",
+  "week_start": "2026/06/12",
+  "week_end": "2026/06/18",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -25,6 +25,15 @@
     "Stranger": "https://stranger.jp/"
   },
   "films": [
+    {
+      "title": "メンテナンス中です",
+      "director": "",
+      "times": [],
+      "period": "06/12〜06/18",
+      "theater": "早稲田松竹",
+      "area": "高田馬場",
+      "url": "https://wasedashochiku.co.jp/"
+    },
     {
       "title": "上映中作品",
       "director": "",
@@ -98,7 +107,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "テアトルアニメゼミ2026",
+      "title": "6/20㊏ 第35回日本映画プロフェッショナル大賞",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -107,7 +116,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "6/11㊍『死ねばいいのに』",
+      "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
       "period": "上映中",
