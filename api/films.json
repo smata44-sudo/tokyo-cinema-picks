@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-13T00:23:57.718198",
-  "updated_date": "2026-06-13",
-  "week_start": "2026/06/13",
-  "week_end": "2026/06/19",
+  "updated": "2026-06-14T00:15:42.084601",
+  "updated_date": "2026-06-14",
+  "week_start": "2026/06/14",
+  "week_end": "2026/06/20",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -25,6 +25,106 @@
     "Stranger": "https://stranger.jp/"
   },
   "films": [
+    {
+      "title": "6/13.sat - 6/16.tue早稲田松竹クラシックスvol.252／ヴェルナー・ヘルツォーク監督特集",
+      "director": "",
+      "times": [
+        "14:54",
+        "00:00",
+        "04:00",
+        "00:00",
+        "23:54",
+        "09:00",
+        "13:00",
+        "09:00",
+        "12:20",
+        "17:05",
+        "10:30",
+        "15:15",
+        "20:00",
+        "21:35",
+        "10:30",
+        "9:50"
+      ],
+      "period": "06/14〜06/20",
+      "theater": "早稲田松竹",
+      "area": "高田馬場",
+      "url": "https://wasedashochiku.co.jp/"
+    },
+    {
+      "title": "アギーレ 神の怒り",
+      "director": "",
+      "times": [
+        "14:54",
+        "00:00",
+        "04:00",
+        "00:00",
+        "23:54",
+        "09:00",
+        "13:00",
+        "09:00",
+        "12:20",
+        "17:05",
+        "10:30",
+        "15:15",
+        "20:00",
+        "21:35"
+      ],
+      "period": "06/14〜06/20",
+      "theater": "早稲田松竹",
+      "area": "高田馬場",
+      "url": "https://wasedashochiku.co.jp/"
+    },
+    {
+      "title": "フィツカラルド",
+      "director": "",
+      "times": [
+        "14:54",
+        "00:00",
+        "04:00",
+        "00:00",
+        "23:54",
+        "09:00",
+        "13:00",
+        "09:00",
+        "12:20",
+        "17:05",
+        "10:30",
+        "15:15",
+        "20:00",
+        "21:35"
+      ],
+      "period": "06/14〜06/20",
+      "theater": "早稲田松竹",
+      "area": "高田馬場",
+      "url": "https://wasedashochiku.co.jp/"
+    },
+    {
+      "title": "6/17.wed - 6/19.fri◆4Kレーザープロジェクター機導入および工事に伴う休館のお知らせ◆",
+      "director": "",
+      "times": [
+        "14:54",
+        "00:00",
+        "04:00",
+        "00:00",
+        "23:54",
+        "09:00",
+        "13:00",
+        "09:00",
+        "12:20",
+        "17:05",
+        "10:30",
+        "15:15",
+        "20:00",
+        "21:35",
+        "10:30",
+        "9:50"
+      ],
+      "period": "06/14〜06/20",
+      "theater": "早稲田松竹",
+      "area": "高田馬場",
+      "url": "https://wasedashochiku.co.jp/"
+    },
     {
       "title": "上映中作品",
       "director": "",
@@ -89,15 +189,6 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "6/13㊏",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
       "title": "6/20㊏ 第35回日本映画プロフェッショナル大賞",
       "director": "",
       "times": [],
@@ -108,6 +199,15 @@
     },
     {
       "title": "テアトルアニメゼミ2026",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "FUJIKO",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -177,6 +277,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
