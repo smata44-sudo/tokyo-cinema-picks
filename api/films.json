@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-15T00:19:49.535794",
-  "updated_date": "2026-06-15",
-  "week_start": "2026/06/15",
-  "week_end": "2026/06/21",
+  "updated": "2026-06-16T01:43:24.846303",
+  "updated_date": "2026-06-16",
+  "week_start": "2026/06/16",
+  "week_end": "2026/06/22",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -46,7 +46,7 @@
         "10:30",
         "9:50"
       ],
-      "period": "06/15〜06/21",
+      "period": "06/16〜06/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -70,7 +70,7 @@
         "20:00",
         "21:35"
       ],
-      "period": "06/15〜06/21",
+      "period": "06/16〜06/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -94,7 +94,7 @@
         "20:00",
         "21:35"
       ],
-      "period": "06/15〜06/21",
+      "period": "06/16〜06/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -120,7 +120,7 @@
         "10:30",
         "9:50"
       ],
-      "period": "06/15〜06/21",
+      "period": "06/16〜06/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -136,15 +136,6 @@
     },
     {
       "title": "上映中作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
-      "title": "『GO』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -171,6 +162,15 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
+      "title": "霧のごとく",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
       "title": "上映中作品",
       "director": "",
       "times": [],
@@ -181,6 +181,15 @@
     },
     {
       "title": "上映中作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "伊藤智生監督作品『StageⅣ』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -199,15 +208,6 @@
     },
     {
       "title": "テアトルアニメゼミ2026",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "FUJIKO",
       "director": "",
       "times": [],
       "period": "上映中",
