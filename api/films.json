@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-17T00:23:15.909155",
-  "updated_date": "2026-06-17",
-  "week_start": "2026/06/17",
-  "week_end": "2026/06/23",
+  "updated": "2026-06-18T00:21:16.416795",
+  "updated_date": "2026-06-18",
+  "week_start": "2026/06/18",
+  "week_end": "2026/06/24",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -31,14 +31,14 @@
       "times": [
         "14:54",
         "00:00",
-        "11:28",
+        "09:42",
         "00:00",
         "23:54",
         "09:00",
-        "20:28",
+        "18:42",
         "09:00"
       ],
-      "period": "06/17〜06/23",
+      "period": "06/18〜06/24",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -49,14 +49,14 @@
       "times": [
         "14:54",
         "00:00",
-        "11:28",
+        "09:42",
         "00:00",
         "23:54",
         "09:00",
-        "20:28",
+        "18:42",
         "09:00"
       ],
-      "period": "06/17〜06/23",
+      "period": "06/18〜06/24",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -67,14 +67,14 @@
       "times": [
         "14:54",
         "00:00",
-        "11:28",
+        "09:42",
         "00:00",
         "23:54",
         "09:00",
-        "20:28",
+        "18:42",
         "09:00"
       ],
-      "period": "06/17〜06/23",
+      "period": "06/18〜06/24",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -85,14 +85,14 @@
       "times": [
         "14:54",
         "00:00",
-        "11:28",
+        "09:42",
         "00:00",
         "23:54",
         "09:00",
-        "20:28",
+        "18:42",
         "09:00"
       ],
-      "period": "06/17〜06/23",
+      "period": "06/18〜06/24",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -161,6 +161,15 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "6/19㈮ 遺愛",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "伊藤智生監督作品『StageⅣ』",
       "director": "",
       "times": [],
@@ -171,15 +180,6 @@
     },
     {
       "title": "6/20㊏ 第35回日本映画プロフェッショナル大賞",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
       "period": "上映中",
