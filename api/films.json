@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-23T00:15:56.623302",
-  "updated_date": "2026-06-23",
-  "week_start": "2026/06/23",
-  "week_end": "2026/06/29",
+  "updated": "2026-06-24T00:04:53.931019",
+  "updated_date": "2026-06-24",
+  "week_start": "2026/06/24",
+  "week_end": "2026/06/30",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -26,108 +26,6 @@
   },
   "films": [
     {
-      "title": "6/20.sat - 6/26.friハローグッバイ東京 ～思い出と人が交差する街～",
-      "director": "",
-      "times": [
-        "14:54",
-        "00:00",
-        "10:42",
-        "00:00",
-        "23:54",
-        "09:00",
-        "19:42",
-        "09:00",
-        "10:30",
-        "14:45",
-        "12:30",
-        "16:45",
-        "18:40",
-        "19:00",
-        "21:20",
-        "9:50",
-        "9:50"
-      ],
-      "period": "06/23〜06/29",
-      "theater": "早稲田松竹",
-      "area": "高田馬場",
-      "url": "https://wasedashochiku.co.jp/"
-    },
-    {
-      "title": "TOKYOタクシー",
-      "director": "",
-      "times": [
-        "14:54",
-        "00:00",
-        "10:42",
-        "00:00",
-        "23:54",
-        "09:00",
-        "19:42",
-        "09:00",
-        "10:30",
-        "14:45",
-        "12:30",
-        "16:45",
-        "18:40"
-      ],
-      "period": "06/23〜06/29",
-      "theater": "早稲田松竹",
-      "area": "高田馬場",
-      "url": "https://wasedashochiku.co.jp/"
-    },
-    {
-      "title": "レンタル・ファミリー",
-      "director": "",
-      "times": [
-        "14:54",
-        "00:00",
-        "10:42",
-        "00:00",
-        "23:54",
-        "09:00",
-        "19:42",
-        "09:00",
-        "10:30",
-        "14:45",
-        "12:30",
-        "16:45",
-        "18:40",
-        "19:00",
-        "21:20"
-      ],
-      "period": "06/23〜06/29",
-      "theater": "早稲田松竹",
-      "area": "高田馬場",
-      "url": "https://wasedashochiku.co.jp/"
-    },
-    {
-      "title": "【特別レイトショー】東京物語 4Kデジタル修復版",
-      "director": "",
-      "times": [
-        "14:54",
-        "00:00",
-        "10:42",
-        "00:00",
-        "23:54",
-        "09:00",
-        "19:42",
-        "09:00",
-        "10:30",
-        "14:45",
-        "12:30",
-        "16:45",
-        "18:40",
-        "19:00",
-        "21:20",
-        "9:50",
-        "9:50"
-      ],
-      "period": "06/23〜06/29",
-      "theater": "早稲田松竹",
-      "area": "高田馬場",
-      "url": "https://wasedashochiku.co.jp/"
-    },
-    {
       "title": "上映中作品",
       "director": "",
       "times": [],
@@ -146,7 +44,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "GO",
+      "title": "【名画座2本立て】6月ラインナップ🎬",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -155,7 +53,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "【名画座2本立て】６月ラインナップ🎬",
+      "title": "時をかける少女",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -164,7 +62,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "霧のごとく",
+      "title": "シラート",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -183,6 +81,15 @@
     },
     {
       "title": "上映中作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "7/11㊌『トロフィー』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -201,15 +108,6 @@
     },
     {
       "title": "テアトルアニメゼミ2026",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "FUJIKO",
       "director": "",
       "times": [],
       "period": "上映中",
