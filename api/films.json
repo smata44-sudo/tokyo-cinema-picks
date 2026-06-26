@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-25T00:18:45.014007",
-  "updated_date": "2026-06-25",
-  "week_start": "2026/06/25",
-  "week_end": "2026/07/01",
+  "updated": "2026-06-26T00:17:01.319324",
+  "updated_date": "2026-06-26",
+  "week_start": "2026/06/26",
+  "week_end": "2026/07/02",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -47,7 +47,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "06/25〜07/01",
+      "period": "06/26〜07/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -70,7 +70,7 @@
         "16:45",
         "18:40"
       ],
-      "period": "06/25〜07/01",
+      "period": "06/26〜07/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -95,7 +95,7 @@
         "19:00",
         "21:20"
       ],
-      "period": "06/25〜07/01",
+      "period": "06/26〜07/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -122,7 +122,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "06/25〜07/01",
+      "period": "06/26〜07/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -191,6 +191,15 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "7/4㊏『死ねばいいのに』",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "7/11㊌『トロフィー』",
       "director": "",
       "times": [],
@@ -201,15 +210,6 @@
     },
     {
       "title": "伊藤智生監督作品『StageⅣ』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
       "period": "上映中",
