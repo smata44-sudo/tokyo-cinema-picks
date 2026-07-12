@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-11T00:04:49.436442",
-  "updated_date": "2026-07-11",
-  "week_start": "2026/07/11",
-  "week_end": "2026/07/17",
+  "updated": "2026-07-12T00:02:24.780439",
+  "updated_date": "2026-07-12",
+  "week_start": "2026/07/12",
+  "week_end": "2026/07/18",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -57,7 +57,7 @@
         "10:00",
         "9:20"
       ],
-      "period": "07/11〜07/17",
+      "period": "07/12〜07/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -82,7 +82,7 @@
         "20:00",
         "21:55"
       ],
-      "period": "07/11〜07/17",
+      "period": "07/12〜07/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,7 +107,7 @@
         "20:00",
         "21:55"
       ],
-      "period": "07/11〜07/17",
+      "period": "07/12〜07/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -137,7 +137,7 @@
         "18:30",
         "10:00"
       ],
-      "period": "07/11〜07/17",
+      "period": "07/12〜07/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -206,25 +206,25 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "7/17㈯『チルド』",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "7/21㈪『チルド』",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "7/13㈪ 映画『死ねばいいのに』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "映画『死ねばいいのに』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "7/15㈬『トロフィー』",
       "director": "",
       "times": [],
       "period": "上映中",
