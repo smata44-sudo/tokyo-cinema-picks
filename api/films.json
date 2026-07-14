@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-13T23:58:24.383820",
-  "updated_date": "2026-07-13",
-  "week_start": "2026/07/13",
-  "week_end": "2026/07/19",
+  "updated": "2026-07-14T23:58:16.966302",
+  "updated_date": "2026-07-14",
+  "week_start": "2026/07/14",
+  "week_end": "2026/07/20",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -57,7 +57,7 @@
         "10:00",
         "9:20"
       ],
-      "period": "07/13〜07/19",
+      "period": "07/14〜07/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -82,7 +82,7 @@
         "20:00",
         "21:55"
       ],
-      "period": "07/13〜07/19",
+      "period": "07/14〜07/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,7 +107,7 @@
         "20:00",
         "21:55"
       ],
-      "period": "07/13〜07/19",
+      "period": "07/14〜07/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -137,7 +137,7 @@
         "18:30",
         "10:00"
       ],
-      "period": "07/13〜07/19",
+      "period": "07/14〜07/20",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -170,7 +170,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "時をかける少女",
+      "title": "急に具合が悪くなる",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -206,7 +206,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "7/17㈯『チルド』",
+      "title": "7/21㈪『チルド』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -215,7 +215,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "7/21㈪『チルド』",
+      "title": "『チルド』",
       "director": "",
       "times": [],
       "period": "上映中",
