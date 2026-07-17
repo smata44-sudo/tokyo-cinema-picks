@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-16T00:04:52.207204",
-  "updated_date": "2026-07-16",
-  "week_start": "2026/07/16",
-  "week_end": "2026/07/22",
+  "updated": "2026-07-17T00:04:26.489846",
+  "updated_date": "2026-07-17",
+  "week_start": "2026/07/17",
+  "week_end": "2026/07/23",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -89,7 +89,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "7/21㈪『チルド』",
+      "title": "7/20 (月祝) トロフィー",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -98,7 +98,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "『チルド』",
+      "title": "7/22㈭ 死ねばいいのに",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -107,7 +107,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "映画『死ねばいいのに』",
+      "title": "7/21㈫『チルド』",
       "director": "",
       "times": [],
       "period": "上映中",
