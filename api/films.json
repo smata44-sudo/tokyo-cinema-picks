@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-21T23:59:43.756173",
-  "updated_date": "2026-07-21",
-  "week_start": "2026/07/21",
-  "week_end": "2026/07/27",
+  "updated": "2026-07-23T00:07:32.135388",
+  "updated_date": "2026-07-23",
+  "week_start": "2026/07/23",
+  "week_end": "2026/07/29",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -47,7 +47,7 @@
         "21:45",
         "9:20"
       ],
-      "period": "07/21〜07/27",
+      "period": "07/23〜07/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -65,7 +65,7 @@
         "19:31",
         "09:00"
       ],
-      "period": "07/21〜07/27",
+      "period": "07/23〜07/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -92,7 +92,7 @@
         "21:45",
         "9:20"
       ],
-      "period": "07/21〜07/27",
+      "period": "07/23〜07/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -119,7 +119,7 @@
         "21:45",
         "9:20"
       ],
-      "period": "07/21〜07/27",
+      "period": "07/23〜07/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -188,15 +188,6 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "7/22㈭ 死ねばいいのに",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
       "title": "テアトルアニメゼミ",
       "director": "",
       "times": [],
@@ -207,6 +198,15 @@
     },
     {
       "title": "アルバイト募集中！",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "トピックス",
       "director": "",
       "times": [],
       "period": "上映中",
