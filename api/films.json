@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-23T00:07:32.135388",
-  "updated_date": "2026-07-23",
-  "week_start": "2026/07/23",
-  "week_end": "2026/07/29",
+  "updated": "2026-07-24T00:05:46.727817",
+  "updated_date": "2026-07-24",
+  "week_start": "2026/07/24",
+  "week_end": "2026/07/30",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -47,7 +47,7 @@
         "21:45",
         "9:20"
       ],
-      "period": "07/23〜07/29",
+      "period": "07/24〜07/30",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -65,7 +65,7 @@
         "19:31",
         "09:00"
       ],
-      "period": "07/23〜07/29",
+      "period": "07/24〜07/30",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -92,7 +92,7 @@
         "21:45",
         "9:20"
       ],
-      "period": "07/23〜07/29",
+      "period": "07/24〜07/30",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -119,7 +119,7 @@
         "21:45",
         "9:20"
       ],
-      "period": "07/23〜07/29",
+      "period": "07/24〜07/30",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -197,7 +197,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "アルバイト募集中！",
+      "title": "7/25㈯『トロフィー』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -206,7 +206,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "トピックス",
+      "title": "7/26㈰ トロフィー",
       "director": "",
       "times": [],
       "period": "上映中",
