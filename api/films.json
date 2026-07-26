@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-25T00:10:22.976754",
-  "updated_date": "2026-07-25",
-  "week_start": "2026/07/25",
-  "week_end": "2026/07/31",
+  "updated": "2026-07-26T00:06:07.721267",
+  "updated_date": "2026-07-26",
+  "week_start": "2026/07/26",
+  "week_end": "2026/08/01",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -47,7 +47,7 @@
         "10:10",
         "10:10"
       ],
-      "period": "07/25〜07/31",
+      "period": "07/26〜08/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -72,7 +72,7 @@
         "21:30",
         "10:50"
       ],
-      "period": "07/25〜07/31",
+      "period": "07/26〜08/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -94,7 +94,7 @@
         "16:50",
         "19:25"
       ],
-      "period": "07/25〜07/31",
+      "period": "07/26〜08/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -121,7 +121,7 @@
         "10:10",
         "10:10"
       ],
-      "period": "07/25〜07/31",
+      "period": "07/26〜08/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -190,25 +190,25 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "テアトルアニメゼミ",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "7/25㈯『トロフィー』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
       "title": "7/26㈰ トロフィー",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "アニメゼミ",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "チルド",
       "director": "",
       "times": [],
       "period": "上映中",
