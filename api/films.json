@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-28T00:07:17.484780",
-  "updated_date": "2026-07-28",
-  "week_start": "2026/07/28",
-  "week_end": "2026/08/03",
+  "updated": "2026-07-29T00:03:29.831639",
+  "updated_date": "2026-07-29",
+  "week_start": "2026/07/29",
+  "week_end": "2026/08/04",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -31,11 +31,11 @@
       "times": [
         "14:54",
         "00:00",
-        "07:11",
+        "01:33",
         "00:00",
         "23:54",
         "09:00",
-        "16:11",
+        "10:33",
         "09:00",
         "13:45",
         "10:50",
@@ -47,7 +47,7 @@
         "10:10",
         "10:10"
       ],
-      "period": "07/28〜08/03",
+      "period": "07/29〜08/04",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -58,58 +58,11 @@
       "times": [
         "14:54",
         "00:00",
-        "07:11",
+        "01:33",
         "00:00",
         "23:54",
         "09:00",
-        "16:11",
-        "09:00",
-        "13:45",
-        "10:50",
-        "16:50",
-        "19:25",
-        "19:45",
-        "21:30",
-        "10:50"
-      ],
-      "period": "07/28〜08/03",
-      "theater": "早稲田松竹",
-      "area": "高田馬場",
-      "url": "https://wasedashochiku.co.jp/"
-    },
-    {
-      "title": "ワン・バトル・アフター・アナザー",
-      "director": "",
-      "times": [
-        "14:54",
-        "00:00",
-        "07:11",
-        "00:00",
-        "23:54",
-        "09:00",
-        "16:11",
-        "09:00",
-        "13:45",
-        "10:50",
-        "16:50",
-        "19:25"
-      ],
-      "period": "07/28〜08/03",
-      "theater": "早稲田松竹",
-      "area": "高田馬場",
-      "url": "https://wasedashochiku.co.jp/"
-    },
-    {
-      "title": "【レイトショー】ジャグラー／ニューヨーク25時 4K修復版",
-      "director": "",
-      "times": [
-        "14:54",
-        "00:00",
-        "07:11",
-        "00:00",
-        "23:54",
-        "09:00",
-        "16:11",
+        "10:33",
         "09:00",
         "13:45",
         "10:50",
@@ -121,7 +74,56 @@
         "10:10",
         "10:10"
       ],
-      "period": "07/28〜08/03",
+      "period": "07/29〜08/04",
+      "theater": "早稲田松竹",
+      "area": "高田馬場",
+      "url": "https://wasedashochiku.co.jp/"
+    },
+    {
+      "title": "ワン・バトル・アフター・アナザー",
+      "director": "",
+      "times": [
+        "14:54",
+        "00:00",
+        "01:33",
+        "00:00",
+        "23:54",
+        "09:00",
+        "10:33",
+        "09:00",
+        "13:45",
+        "10:50",
+        "16:50",
+        "19:25"
+      ],
+      "period": "07/29〜08/04",
+      "theater": "早稲田松竹",
+      "area": "高田馬場",
+      "url": "https://wasedashochiku.co.jp/"
+    },
+    {
+      "title": "【レイトショー】ジャグラー／ニューヨーク25時 4K修復版",
+      "director": "",
+      "times": [
+        "14:54",
+        "00:00",
+        "01:33",
+        "00:00",
+        "23:54",
+        "09:00",
+        "10:33",
+        "09:00",
+        "13:45",
+        "10:50",
+        "16:50",
+        "19:25",
+        "19:45",
+        "21:30",
+        "10:50",
+        "10:10",
+        "10:10"
+      ],
+      "period": "07/29〜08/04",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -137,6 +139,24 @@
     },
     {
       "title": "上映中作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
+      "title": "パプリカ 4Kリマスター版",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
+      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -154,24 +174,6 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "急に具合が悪くなる",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
-      "title": "シラート",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
       "title": "上映中作品",
       "director": "",
       "times": [],
@@ -190,7 +192,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "チルド",
+      "title": "GUN FISH あなたの知らないフグの世界",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -199,7 +201,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "アニメゼミ",
+      "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -208,7 +210,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "アルバイト募集中！",
+      "title": "フィッシュストーリー",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -278,6 +280,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
