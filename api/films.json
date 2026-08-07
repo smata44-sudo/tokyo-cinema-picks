@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-06T00:04:43.845089",
-  "updated_date": "2026-08-06",
-  "week_start": "2026/08/06",
-  "week_end": "2026/08/12",
+  "updated": "2026-08-07T01:43:00.002086",
+  "updated_date": "2026-08-07",
+  "week_start": "2026/08/07",
+  "week_end": "2026/08/13",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -47,7 +47,6 @@
         "19:15",
         "19:30",
         "21:05",
-        "20:15",
         "10:50",
         "10:10",
         "18:00",
@@ -58,7 +57,7 @@
         "18:00",
         "19:30"
       ],
-      "period": "08/06〜08/12",
+      "period": "08/07〜08/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -82,7 +81,7 @@
         "16:40",
         "17:45"
       ],
-      "period": "08/06〜08/12",
+      "period": "08/07〜08/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -108,7 +107,7 @@
         "18:00",
         "19:15"
       ],
-      "period": "08/06〜08/12",
+      "period": "08/07〜08/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -135,7 +134,6 @@
         "19:15",
         "19:30",
         "21:05",
-        "20:15",
         "10:50",
         "10:10",
         "18:00",
@@ -146,7 +144,7 @@
         "18:00",
         "19:30"
       ],
-      "period": "08/06〜08/12",
+      "period": "08/07〜08/13",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -215,6 +213,15 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "8/14㊎ 南極料理人",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "8/12㈬『トロフィー』",
       "director": "",
       "times": [],
@@ -225,15 +232,6 @@
     },
     {
       "title": "開戦前夜",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "フィッシュストーリー",
       "director": "",
       "times": [],
       "period": "上映中",
