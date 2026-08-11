@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-10T23:41:18.423383",
-  "updated_date": "2026-08-10",
-  "week_start": "2026/08/10",
-  "week_end": "2026/08/16",
+  "updated": "2026-08-11T23:50:18.469961",
+  "updated_date": "2026-08-11",
+  "week_start": "2026/08/11",
+  "week_end": "2026/08/17",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -58,7 +58,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "08/10〜08/16",
+      "period": "08/11〜08/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -96,7 +96,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "08/10〜08/16",
+      "period": "08/11〜08/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -134,7 +134,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "08/10〜08/16",
+      "period": "08/11〜08/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -172,7 +172,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "08/10〜08/16",
+      "period": "08/11〜08/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -196,6 +196,24 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
+      "title": "千年女優",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
+      "title": "【名画座2本立て】8月ラインナップ🎬",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "キネカ大森",
+      "area": "大森",
+      "url": "https://ttcg.jp/cineka_omori/"
+    },
+    {
       "title": "パプリカ 4Kリマスター版",
       "director": "",
       "times": [],
@@ -205,24 +223,6 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "映画クレヨンしんちゃん 奇々怪々！オラの妖怪バケ～ション",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
-      "title": "【名画座2本立て】７月ラインナップ🎬",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "キネカ大森",
-      "area": "大森",
-      "url": "https://ttcg.jp/cineka_omori/"
-    },
-    {
       "title": "上映中作品",
       "director": "",
       "times": [],
@@ -233,15 +233,6 @@
     },
     {
       "title": "上映中作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "8/11㈫『チルド』",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -260,6 +251,15 @@
     },
     {
       "title": "8/14㊎ 南極料理人",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "開戦前夜",
       "director": "",
       "times": [],
       "period": "上映中",
