@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-16T23:26:40.918036",
-  "updated_date": "2026-08-16",
-  "week_start": "2026/08/16",
-  "week_end": "2026/08/22",
+  "updated": "2026-08-17T23:28:51.186849",
+  "updated_date": "2026-08-17",
+  "week_start": "2026/08/17",
+  "week_end": "2026/08/23",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -55,7 +55,7 @@
         "10:00",
         "9:20"
       ],
-      "period": "08/16〜08/22",
+      "period": "08/17〜08/23",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -79,7 +79,7 @@
         "19:50",
         "22:05"
       ],
-      "period": "08/16〜08/22",
+      "period": "08/17〜08/23",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -103,7 +103,7 @@
         "19:50",
         "22:05"
       ],
-      "period": "08/16〜08/22",
+      "period": "08/17〜08/23",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -134,7 +134,7 @@
         "20:05",
         "21:45"
       ],
-      "period": "08/16〜08/22",
+      "period": "08/17〜08/23",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -158,7 +158,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "千年女優",
+      "title": "新感染 ファイナル・エクスプレス",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -167,7 +167,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "【名画座2本立て】8月ラインナップ🎬",
+      "title": "Mirai 運命の戦士",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -176,7 +176,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "パプリカ 4Kリマスター版",
+      "title": "廃用身",
       "director": "",
       "times": [],
       "period": "上映中",
