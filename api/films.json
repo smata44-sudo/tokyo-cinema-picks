@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-25T23:30:33.089613",
-  "updated_date": "2026-08-25",
-  "week_start": "2026/08/25",
-  "week_end": "2026/08/31",
+  "updated": "2026-08-27T04:28:03.922345",
+  "updated_date": "2026-08-27",
+  "week_start": "2026/08/27",
+  "week_end": "2026/09/02",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -46,7 +46,7 @@
         "10:20",
         "9:40"
       ],
-      "period": "08/25〜08/31",
+      "period": "08/27〜09/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -70,7 +70,7 @@
         "19:30",
         "21:35"
       ],
-      "period": "08/25〜08/31",
+      "period": "08/27〜09/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -96,7 +96,7 @@
         "10:20",
         "9:40"
       ],
-      "period": "08/25〜08/31",
+      "period": "08/27〜09/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -122,7 +122,7 @@
         "10:20",
         "9:40"
       ],
-      "period": "08/25〜08/31",
+      "period": "08/27〜09/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -155,7 +155,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "新感染 ファイナル・エクスプレス",
+      "title": "天使の集まる島",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -164,7 +164,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "Mirai 運命の戦士",
+      "title": "第8回ジーンシアタースタジアム",
       "director": "",
       "times": [],
       "period": "上映中",
