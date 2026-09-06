@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-05T00:48:18.199818",
-  "updated_date": "2026-09-05",
-  "week_start": "2026/09/05",
-  "week_end": "2026/09/11",
+  "updated": "2026-09-06T00:46:51.357592",
+  "updated_date": "2026-09-06",
+  "week_start": "2026/09/06",
+  "week_end": "2026/09/12",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -55,7 +55,7 @@
         "9:20",
         "9:20"
       ],
-      "period": "09/05〜09/11",
+      "period": "09/06〜09/12",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -78,7 +78,7 @@
         "17:25",
         "20:05"
       ],
-      "period": "09/05〜09/11",
+      "period": "09/06〜09/12",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -103,7 +103,7 @@
         "20:20",
         "21:45"
       ],
-      "period": "09/05〜09/11",
+      "period": "09/06〜09/12",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -138,7 +138,7 @@
         "9:20",
         "9:20"
       ],
-      "period": "09/05〜09/11",
+      "period": "09/06〜09/12",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -216,7 +216,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "9/5㈯『GUN FISH』",
+      "title": "フィッシュストーリー",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -225,7 +225,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "フィッシュストーリー",
+      "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
       "period": "上映中",
