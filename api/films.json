@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-15T01:20:13.337767",
-  "updated_date": "2026-09-15",
-  "week_start": "2026/09/15",
-  "week_end": "2026/09/21",
+  "updated": "2026-09-16T01:15:32.505617",
+  "updated_date": "2026-09-16",
+  "week_start": "2026/09/16",
+  "week_end": "2026/09/22",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -52,7 +52,7 @@
         "9:10",
         "13:10"
       ],
-      "period": "09/15〜09/21",
+      "period": "09/16〜09/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -77,7 +77,7 @@
         "19:50",
         "22:25"
       ],
-      "period": "09/15〜09/21",
+      "period": "09/16〜09/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -102,7 +102,7 @@
         "19:50",
         "22:25"
       ],
-      "period": "09/15〜09/21",
+      "period": "09/16〜09/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -134,7 +134,7 @@
         "9:10",
         "13:10"
       ],
-      "period": "09/15〜09/21",
+      "period": "09/16〜09/22",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -158,7 +158,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "マッキー",
+      "title": "ひまつぶし、のようなもの",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -167,7 +167,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "恋するブラジャー大作戦（仮）",
+      "title": "踊る大捜査線 N.E.W.メトロポリスを駆け抜けろ！",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -176,7 +176,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "冴えないボクと映えるキミ",
+      "title": "【名画座2本立て】9月ラインナップ🎬",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -195,6 +195,24 @@
     },
     {
       "title": "上映中作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "9/18㈮・9/20㈰・9/21㈪",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "9/19㈯・21㈪・23㈬",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -204,24 +222,6 @@
     },
     {
       "title": "MOOSIC LAB 2026",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "開戦前夜",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "フィッシュストーリー",
       "director": "",
       "times": [],
       "period": "上映中",
