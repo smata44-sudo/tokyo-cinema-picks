@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-21T00:58:05.761635",
-  "updated_date": "2026-09-21",
-  "week_start": "2026/09/21",
-  "week_end": "2026/09/27",
+  "updated": "2026-09-22T01:32:50.284481",
+  "updated_date": "2026-09-22",
+  "week_start": "2026/09/22",
+  "week_end": "2026/09/28",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -59,7 +59,7 @@
         "9:50",
         "13:10"
       ],
-      "period": "09/21〜09/27",
+      "period": "09/22〜09/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -98,7 +98,7 @@
         "9:50",
         "13:10"
       ],
-      "period": "09/21〜09/27",
+      "period": "09/22〜09/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -137,7 +137,7 @@
         "9:50",
         "13:10"
       ],
-      "period": "09/21〜09/27",
+      "period": "09/22〜09/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -176,7 +176,7 @@
         "9:50",
         "13:10"
       ],
-      "period": "09/21〜09/27",
+      "period": "09/22〜09/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -200,7 +200,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "ひまつぶし、のようなもの",
+      "title": "ドラマなふたり",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -209,7 +209,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "踊る大捜査線 N.E.W.メトロポリスを駆け抜けろ！",
+      "title": "ナギダイアリー",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -218,7 +218,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "【名画座2本立て】9月ラインナップ🎬",
+      "title": "【DIVE IN CINEMA Vol.5】少林サッカー",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -237,24 +237,6 @@
     },
     {
       "title": "上映中作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "テアトルアニメゼミ2026",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "9/18㈮・9/20㈰・9/21㈪",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -264,6 +246,24 @@
     },
     {
       "title": "9/19㈯・21㈪・23㈬",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "9/24㈭",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
       "period": "上映中",
