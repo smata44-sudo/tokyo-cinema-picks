@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-04T02:30:01.507019",
-  "updated_date": "2026-10-04",
-  "week_start": "2026/10/04",
-  "week_end": "2026/10/10",
+  "updated": "2026-10-05T01:47:08.761200",
+  "updated_date": "2026-10-05",
+  "week_start": "2026/10/05",
+  "week_end": "2026/10/11",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -60,7 +60,7 @@
         "14:30",
         "10:10"
       ],
-      "period": "10/04〜10/10",
+      "period": "10/05〜10/11",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -100,7 +100,7 @@
         "14:30",
         "10:10"
       ],
-      "period": "10/04〜10/10",
+      "period": "10/05〜10/11",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -140,7 +140,7 @@
         "14:30",
         "10:10"
       ],
-      "period": "10/04〜10/10",
+      "period": "10/05〜10/11",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -166,7 +166,7 @@
         "20:00",
         "21:20"
       ],
-      "period": "10/04〜10/10",
+      "period": "10/05〜10/11",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -235,7 +235,16 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "本当にあった話（の話）",
+      "title": "10/10㈯",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "10/17㈯若松孝二監督",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -245,15 +254,6 @@
     },
     {
       "title": "開戦前夜",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "ミッシェル・ガン・エレファント",
       "director": "",
       "times": [],
       "period": "上映中",
