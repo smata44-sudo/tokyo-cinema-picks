@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-08T02:37:51.307322",
-  "updated_date": "2026-10-08",
-  "week_start": "2026/10/08",
-  "week_end": "2026/10/14",
+  "updated": "2026-10-09T02:53:04.965860",
+  "updated_date": "2026-10-09",
+  "week_start": "2026/10/09",
+  "week_end": "2026/10/15",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -49,7 +49,7 @@
         "14:30",
         "10:10"
       ],
-      "period": "10/08〜10/14",
+      "period": "10/09〜10/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -78,7 +78,7 @@
         "14:30",
         "10:10"
       ],
-      "period": "10/08〜10/14",
+      "period": "10/09〜10/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,7 +107,7 @@
         "14:30",
         "10:10"
       ],
-      "period": "10/08〜10/14",
+      "period": "10/09〜10/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -129,7 +129,7 @@
         "12:50",
         "14:10"
       ],
-      "period": "10/08〜10/14",
+      "period": "10/09〜10/15",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -198,6 +198,15 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "10/15㈭『月影のゴールデン街』",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "10/10㈯",
       "director": "",
       "times": [],
@@ -208,15 +217,6 @@
     },
     {
       "title": "10/17㈯若松孝二監督",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "10/15㈭『月影のゴールデン街』",
       "director": "",
       "times": [],
       "period": "上映中",
