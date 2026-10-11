@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-10T02:13:37.424730",
-  "updated_date": "2026-10-10",
-  "week_start": "2026/10/10",
-  "week_end": "2026/10/16",
+  "updated": "2026-10-11T01:45:56.521927",
+  "updated_date": "2026-10-11",
+  "week_start": "2026/10/11",
+  "week_end": "2026/10/17",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -62,7 +62,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "10/10〜10/16",
+      "period": "10/11〜10/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -89,7 +89,7 @@
         "19:45",
         "21:30"
       ],
-      "period": "10/10〜10/16",
+      "period": "10/11〜10/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -114,7 +114,7 @@
         "17:35",
         "19:25"
       ],
-      "period": "10/10〜10/16",
+      "period": "10/11〜10/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -156,7 +156,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "10/10〜10/16",
+      "period": "10/11〜10/17",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -234,7 +234,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "10/10㈯",
+      "title": "10/17㈯若松孝二監督",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -243,7 +243,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "10/17㈯若松孝二監督",
+      "title": "しびれ",
       "director": "",
       "times": [],
       "period": "上映中",
