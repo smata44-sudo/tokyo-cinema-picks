@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-14T01:45:36.210485",
-  "updated_date": "2026-10-14",
-  "week_start": "2026/10/14",
-  "week_end": "2026/10/20",
+  "updated": "2026-10-15T01:21:37.981211",
+  "updated_date": "2026-10-15",
+  "week_start": "2026/10/15",
+  "week_end": "2026/10/21",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -62,7 +62,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "10/14〜10/20",
+      "period": "10/15〜10/21",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -89,7 +89,7 @@
         "19:45",
         "21:30"
       ],
-      "period": "10/14〜10/20",
+      "period": "10/15〜10/21",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -114,7 +114,7 @@
         "17:35",
         "19:25"
       ],
-      "period": "10/14〜10/20",
+      "period": "10/15〜10/21",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -156,7 +156,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "10/14〜10/20",
+      "period": "10/15〜10/21",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
