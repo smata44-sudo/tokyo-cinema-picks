@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-21T01:25:57.254111",
-  "updated_date": "2026-10-21",
-  "week_start": "2026/10/21",
-  "week_end": "2026/10/27",
+  "updated": "2026-10-22T01:24:01.874067",
+  "updated_date": "2026-10-22",
+  "week_start": "2026/10/22",
+  "week_end": "2026/10/28",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -49,7 +49,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/21〜10/27",
+      "period": "10/22〜10/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -78,7 +78,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/21〜10/27",
+      "period": "10/22〜10/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,7 +107,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/21〜10/27",
+      "period": "10/22〜10/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -136,7 +136,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/21〜10/27",
+      "period": "10/22〜10/28",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -293,24 +293,6 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
-    },
-    {
-      "title": "ニュース",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "新宿武蔵野館",
-      "area": "新宿",
-      "url": "https://shinjuku.musashino-k.jp/"
-    },
-    {
-      "title": "上映中の作品",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "新宿武蔵野館",
-      "area": "新宿",
-      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
