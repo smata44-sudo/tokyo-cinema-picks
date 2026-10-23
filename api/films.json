@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-22T01:24:01.874067",
-  "updated_date": "2026-10-22",
-  "week_start": "2026/10/22",
-  "week_end": "2026/10/28",
+  "updated": "2026-10-23T01:22:20.815541",
+  "updated_date": "2026-10-23",
+  "week_start": "2026/10/23",
+  "week_end": "2026/10/29",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -49,7 +49,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/22〜10/28",
+      "period": "10/23〜10/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -78,7 +78,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/22〜10/28",
+      "period": "10/23〜10/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,7 +107,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/22〜10/28",
+      "period": "10/23〜10/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -136,7 +136,7 @@
         "12:10",
         "9:20"
       ],
-      "period": "10/22〜10/28",
+      "period": "10/23〜10/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -205,6 +205,15 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
+      "title": "10/30㈮ 月影のゴールデン街",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
       "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
@@ -215,15 +224,6 @@
     },
     {
       "title": "10/27㈫『本当にあった話（の話）』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "10/28㈬",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -293,6 +293,24 @@
       "theater": "シネマート新宿",
       "area": "新宿",
       "url": "https://www.cinemart.co.jp/theater/shinjuku/"
+    },
+    {
+      "title": "ニュース",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
+    },
+    {
+      "title": "上映中の作品",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "新宿武蔵野館",
+      "area": "新宿",
+      "url": "https://shinjuku.musashino-k.jp/"
     },
     {
       "title": "新着情報Information",
