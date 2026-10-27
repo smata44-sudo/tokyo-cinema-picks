@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-26T01:05:06.680398",
-  "updated_date": "2026-10-26",
-  "week_start": "2026/10/26",
-  "week_end": "2026/11/01",
+  "updated": "2026-10-27T01:57:17.659926",
+  "updated_date": "2026-10-27",
+  "week_start": "2026/10/27",
+  "week_end": "2026/11/02",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -68,7 +68,7 @@
         "19:55",
         "21:20"
       ],
-      "period": "10/26〜11/01",
+      "period": "10/27〜11/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -116,7 +116,7 @@
         "19:55",
         "21:20"
       ],
-      "period": "10/26〜11/01",
+      "period": "10/27〜11/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -139,7 +139,7 @@
         "15:40",
         "17:35"
       ],
-      "period": "10/26〜11/01",
+      "period": "10/27〜11/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -187,7 +187,7 @@
         "19:55",
         "21:20"
       ],
-      "period": "10/26〜11/01",
+      "period": "10/27〜11/02",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -211,7 +211,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "『ブレックファスト・クラブ』4K",
+      "title": "ゴジラ-0.0",
       "director": "",
       "times": [],
       "period": "上映中",
