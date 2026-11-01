@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-31T02:12:25.160307",
-  "updated_date": "2026-10-31",
-  "week_start": "2026/10/31",
-  "week_end": "2026/11/06",
+  "updated": "2026-11-01T02:01:51.785281",
+  "updated_date": "2026-11-01",
+  "week_start": "2026/11/01",
+  "week_end": "2026/11/07",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -50,7 +50,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "10/31〜11/06",
+      "period": "11/01〜11/07",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -80,7 +80,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "10/31〜11/06",
+      "period": "11/01〜11/07",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -105,7 +105,7 @@
         "18:10",
         "19:55"
       ],
-      "period": "10/31〜11/06",
+      "period": "11/01〜11/07",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -135,7 +135,7 @@
         "9:50",
         "9:50"
       ],
-      "period": "10/31〜11/06",
+      "period": "11/01〜11/07",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -222,7 +222,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "10/30㈮ 月影のゴールデン街",
+      "title": "テアトルアニメゼミ2026",
       "director": "",
       "times": [],
       "period": "上映中",
