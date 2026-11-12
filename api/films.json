@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-11T02:39:53.444403",
-  "updated_date": "2026-11-11",
-  "week_start": "2026/11/11",
-  "week_end": "2026/11/17",
+  "updated": "2026-11-12T03:43:05.787022",
+  "updated_date": "2026-11-12",
+  "week_start": "2026/11/12",
+  "week_end": "2026/11/18",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -48,7 +48,7 @@
         "12:40",
         "10:00"
       ],
-      "period": "11/11〜11/17",
+      "period": "11/12〜11/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -76,7 +76,7 @@
         "12:40",
         "10:00"
       ],
-      "period": "11/11〜11/17",
+      "period": "11/12〜11/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -104,7 +104,7 @@
         "12:40",
         "10:00"
       ],
-      "period": "11/11〜11/17",
+      "period": "11/12〜11/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -132,7 +132,7 @@
         "12:40",
         "10:00"
       ],
-      "period": "11/11〜11/17",
+      "period": "11/12〜11/18",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -156,7 +156,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "地球を守れ！ 4Kレストア版",
+      "title": "眺めのいい部屋 4K",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -165,7 +165,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "ブゴニア",
+      "title": "憎しみ ４K",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -174,7 +174,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "メモリィズ",
+      "title": "南極料理人 ４Kリマスター",
       "director": "",
       "times": [],
       "period": "上映中",
