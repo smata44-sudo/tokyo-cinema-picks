@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-22T02:56:45.300473",
-  "updated_date": "2026-11-22",
-  "week_start": "2026/11/22",
-  "week_end": "2026/11/28",
+  "updated": "2026-11-23T03:38:51.442637",
+  "updated_date": "2026-11-23",
+  "week_start": "2026/11/23",
+  "week_end": "2026/11/29",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -60,7 +60,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/22〜11/28",
+      "period": "11/23〜11/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -84,7 +84,7 @@
         "17:05",
         "19:10"
       ],
-      "period": "11/22〜11/28",
+      "period": "11/23〜11/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -106,7 +106,7 @@
         "14:45",
         "16:50"
       ],
-      "period": "11/22〜11/28",
+      "period": "11/23〜11/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -146,7 +146,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/22〜11/28",
+      "period": "11/23〜11/29",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -215,25 +215,25 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "テアトルアニメゼミ2026",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
-      "title": "『見上げてごらん』",
-      "director": "",
-      "times": [],
-      "period": "上映中",
-      "theater": "テアトル新宿",
-      "area": "新宿",
-      "url": "https://ttcg.jp/theatre_shinjuku/"
-    },
-    {
       "title": "あなたが選ぶテアトル映画 特集上映",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "南極料理人 ４Kリマスター",
+      "director": "",
+      "times": [],
+      "period": "上映中",
+      "theater": "テアトル新宿",
+      "area": "新宿",
+      "url": "https://ttcg.jp/theatre_shinjuku/"
+    },
+    {
+      "title": "11/26㈭ 劇場版 ブルーインパルスの空へ",
       "director": "",
       "times": [],
       "period": "上映中",
