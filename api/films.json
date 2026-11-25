@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-24T06:53:12.899304",
-  "updated_date": "2026-11-24",
-  "week_start": "2026/11/24",
-  "week_end": "2026/11/30",
+  "updated": "2026-11-25T05:20:21.261566",
+  "updated_date": "2026-11-25",
+  "week_start": "2026/11/25",
+  "week_end": "2026/12/01",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -49,7 +49,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/24〜11/30",
+      "period": "11/25〜12/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -78,7 +78,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/24〜11/30",
+      "period": "11/25〜12/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,7 +107,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/24〜11/30",
+      "period": "11/25〜12/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -136,7 +136,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/24〜11/30",
+      "period": "11/25〜12/01",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -169,7 +169,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "憎しみ ４K",
+      "title": "南極料理人 ４Kリマスター",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -178,7 +178,7 @@
       "url": "https://ttcg.jp/cineka_omori/"
     },
     {
-      "title": "南極料理人 ４Kリマスター",
+      "title": "【名画座2本立て】11月ラインナップ🎬",
       "director": "",
       "times": [],
       "period": "上映中",
@@ -214,7 +214,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "南極料理人 ４Kリマスター",
+      "title": "南極料理人",
       "director": "",
       "times": [],
       "period": "上映中",
