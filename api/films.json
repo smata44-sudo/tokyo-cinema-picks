@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-26T04:51:37.337614",
-  "updated_date": "2026-11-26",
-  "week_start": "2026/11/26",
-  "week_end": "2026/12/02",
+  "updated": "2026-11-27T04:54:09.037081",
+  "updated_date": "2026-11-27",
+  "week_start": "2026/11/27",
+  "week_end": "2026/12/03",
   "theater_urls": {
     "新文芸坐": "https://www.shin-bungeiza.com/",
     "早稲田松竹": "https://wasedashochiku.co.jp/",
@@ -49,7 +49,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/26〜12/02",
+      "period": "11/27〜12/03",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -78,7 +78,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/26〜12/02",
+      "period": "11/27〜12/03",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -107,7 +107,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/26〜12/02",
+      "period": "11/27〜12/03",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -136,7 +136,7 @@
         "9:40",
         "9:40"
       ],
-      "period": "11/26〜12/02",
+      "period": "11/27〜12/03",
       "theater": "早稲田松竹",
       "area": "高田馬場",
       "url": "https://wasedashochiku.co.jp/"
@@ -223,7 +223,7 @@
       "url": "https://ttcg.jp/theatre_shinjuku/"
     },
     {
-      "title": "11/26㈭",
+      "title": "12/5㈯『雨のエトランゼ』",
       "director": "",
       "times": [],
       "period": "上映中",
